@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack developer</h3>
 
 # 💫 About Me:
-- 🔭 I’m currently working on **Next.js and Node.js**<br><br>- 🌱 I’m currently learning **Devops and Advance Backend**<br><br>- 👯 I’m looking to collaborate on **Full stack role**<br><br>- 💬 Ask me about **react , Next.js and express**<br><br>- 📫 How to reach me **www.pradeep20020102@gmail.com**<br>
+- 🔭 I’m currently working on **Next.js and Node.js**<br><br>- 🌱 I’m currently learning **Redis and Advance Backend**<br><br>- 👯 I’m looking to collaborate on **Full stack role**<br><br>- 💬 Ask me about **react , Next.js and express**<br><br>- 📫 How to reach me **www.pradeep20020102@gmail.com**<br>
 
 
 ## 🌐 Socials:

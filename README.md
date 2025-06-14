@@ -16,7 +16,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pradeepyd&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pradeepyd&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <br/>
-<a href="https://github.com/pradeepydgithub-readme-activity-graph"><img alt="Pradeep's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=pradeepyd&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 <br/><br/>
 

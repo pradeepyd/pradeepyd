@@ -1,6 +1,5 @@
 
-
-# 💫 About Me:![github](https://github.com/user-attachments/assets/713605f2-6caa-4614-9e49-f76b88c7f195)
+![github](https://github.com/user-attachments/assets/713605f2-6caa-4614-9e49-f76b88c7f195)
 <h1 align="center">Hi 👋, I'm Pradeep yadav</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 - 🔭 I’m currently working on **Next.js and WebSocket**<br><br>- 🌱 I’m currently learning **Devops and Web3**<br><br>- 👯 I’m looking to collaborate on **Full stack role**<br><br>- 💬 Ask me about **Full stack, Next.js and express**<br><br>- 📫 How to reach me **www.pradeep20020102@gmail.com**<br>
